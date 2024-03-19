@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fat Beardies</title>
+<style>
+body {
+    background-color: purple;
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+a {
+    color: orange;
+
+}
+</style>
+</head>
+<img src="images/beardeddragon.jpg"
+<body>
+<h1> How to love your Beardies</h1>
+<hr>
+<p>The best thing you can do is try to be around your Beardie as much as possible and handle them
+as much as possible, its a little known fact that Beardies are big cuddle bugs and really
+appreciate all the attention. Bearded dragons can grow up to 24 inches. They are omnivores and prefer to eat veggies such as collared or mustard greens, baby arugula,
+and bugs such as dubia roaches(which provide the most nutritional value for them out of all the bugs), 
+they will also eat crickets and worms. Beardies also require special lighting and cage requirements such as UVB lighting set on 12 hour cycles to be on during the day
+and off during the night. An excellent source of lighting is crucial for the health of your Beardie as they
+will not be able to absorb the calcium and vitamin D needed to properly digest their food and could create
+a vitamin D deficiancy. Their tank also requires a cool side and a hot side to keep their temperature regulated. </p>
+<hr>
+<img src="images/beardeddragon2.jpg"
+<hr>
+<h2> Fun facts about Bearded Dragons</h2>
+<ul>
+<li>They surprisingly love to cuddle</li>
+<li>They have been around since dinosaurs</li>
+<li>Their native land is Australia</li>
+<li>When they are upset their beards and body turn black in response</li>
+<li>They are omnivores</li>
+<li>They are very social</li>
+<li>They can regrow their teeth</li>
+</ul>
+<hr>
+<h3> History and Origination of the Bearded Dragon
+<p> Beardies are native to Central Ausralia and In the 1950's people started taking interest in bearded dragons and started trying to breed them without much knowledge of their health and needs and 
+ended up creating a lot of defects and Australia eventually had to ban breeding them altogether. Beardies were not introduced into the United States until the 1990's. The wild type or standard Beardie is tan to yellow in color on its dorsum with 
+irregular blotches and a pale belly. They typically live 8-10 years in captivity. Beardies are also know by their scientific name Pogona Vitticeps.</p>
+<hr>
+<ul>
+<li><a href="https://www.zillarules.com/articles/the-ultimate-guide-to-bearded-dragons" target="_blank">Zillarules</a></li>
+<li><a href="https://www.petmd.com/reptile/care/10-things-you-didnt-know-about-bearded-dragons" target="_blank">petmd</a></li>
+
+<p>&copy; All rights Reserved Google</p>
+</body>
+
+
+</html>
